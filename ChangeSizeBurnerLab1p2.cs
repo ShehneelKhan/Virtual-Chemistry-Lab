@@ -70,7 +70,6 @@ public class ChangeSizeBurnerLab1p2 : MonoBehaviour
 
     void Update(){
        
-                
 
         if(red_rod.activeInHierarchy==true){
 
